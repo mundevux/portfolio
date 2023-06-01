@@ -20,7 +20,7 @@ const Social = (props) => {
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className=" text-quaternary hover:text-quinary transition px-3 lg:px-1"
+        className=" text-quaternary hover:text-quinary transition px-2 mr-2 lg:px-1"
       >
         <i
           className={`fa-brands ${getIcon(
